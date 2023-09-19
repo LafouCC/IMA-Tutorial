@@ -22,6 +22,7 @@ function draw() {
 In this snippet of code, I utilize push() and pop() to keep my code **modular**, so that I can maintain a clean separation between different parts of my sketch. Any accumulative method used inside this block won't affect the outside. 
 
 It looks like this:
+
 ![sun image](assets/sun.png)
 
 ---
