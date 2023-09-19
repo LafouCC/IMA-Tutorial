@@ -1,6 +1,6 @@
 # Transition 
 
-<font size="3">In this sketch, I utilize the concepts of rotate(), push(), and pop() to draw the sun, the earth, and the moon. Let us break this code down little by little.
+In this sketch, I utilize the concepts of rotate(), push(), and pop() to draw the sun, the earth, and the moon. Let us break this code down little by little.
 
 First, let's simply draw a red circle to represent the sun. I locate the position of the sun in the middle of the canvas. 
 ```
@@ -152,7 +152,6 @@ Some useful resources:
 
 [Cissy's Documentation Blog](https://wp.nyu.edu/cissyxie/category/creative-coding-lab/)
 
-</font>
 
 
 
