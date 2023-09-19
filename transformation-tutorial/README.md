@@ -64,7 +64,7 @@ function draw() {
   //the Earth
   rotate(angleEarth);
   fill(0,255,0);
-  ellipse(R1,0,30,30);
+  ellipse(width/2+R1,height/2,30,30);
 }
   ```
 This is what we will achieve:
